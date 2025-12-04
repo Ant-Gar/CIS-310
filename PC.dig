@@ -119,7 +119,7 @@
         </entry>
         <entry>
           <string>Label</string>
-          <string>Clear/Store/Load/Increment</string>
+          <string>INC/LD/RST</string>
         </entry>
         <entry>
           <string>Bits</string>
@@ -157,7 +157,7 @@
       <elementAttributes>
         <entry>
           <string>Label</string>
-          <string>Input</string>
+          <string>Input1</string>
         </entry>
         <entry>
           <string>Bits</string>
